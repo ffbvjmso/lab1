@@ -1,0 +1,17 @@
+Script started on 2016年03月13日 (週日) 20時55分26秒
+]0;F74046527@2015cpp: ~[01;32mF74046527@2015cpp[00m:[01;34m~[00m$ whoami;pwd
+F74046527
+/home/F74046527
+]0;F74046527@2015cpp: ~[01;32mF74046527@2015cpp[00m:[01;34m~[00m$ git config -l
+user.name=ffbvjmso
+user.email=f74046527@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F74046527@2015cpp: ~[01;32mF74046527@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/ffbvjmso/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046527@2015cpp: ~[01;32mF74046527@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月13日 (週日) 20時56分42秒
